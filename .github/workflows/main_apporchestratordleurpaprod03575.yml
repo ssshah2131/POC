@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'apporchestratordleurpaprod03575'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C429D34371B4FE7907AE8E2B6EA4684 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9AD6FACE7E84BB6A929783B4F6B0F1A }}
           package: .
