@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>POC by Shail Shah</title>
+    <title>POC</title>
 </head>
 <body>
-    <h1>Hello Team! This is POC created by Shail Shah</h1>
+    <h1>Hello Team! This is POC created for responsible disclosure by Shail Shah</h1>
     <?php
         
     ?>
